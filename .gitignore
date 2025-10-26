@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# CMake / build artifacts
+/build/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+cmake-build-*/
+
+# Binaries
+*.exe
+*.pdb
+*.obj
+*.o
+*.dll
+*.lib
+*.ilk
